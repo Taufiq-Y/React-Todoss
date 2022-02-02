@@ -48,8 +48,8 @@ const TodoList = () => {
     return (
         <>
             <div className = "header text-center">
-              <h2>In Hurry!!? Organize your work here</h2>
-                <h3>CRUD Todo List</h3>
+              <h2>Hurry!!? Organize your work here</h2>
+                <h3>CRUD Kepprr</h3>
                 <button className = "btn btn-primary mt-2" onClick = {() => setModal(true)} >Create Task</button>
             </div>
             <div className = "task-container">
